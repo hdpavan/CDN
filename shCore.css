@@ -199,12 +199,12 @@
 
 .syntaxhighlighter .toolbar .item.viewSource
 {
-	background-image: url(page_white_code.png) !important;
+	background-image: url(https://raw.githubusercontent.com/hdpavan/CDN/master/page_white_code.png) !important;
 }
 
 .syntaxhighlighter .toolbar .item.printSource
 {
-	background-image: url(printer.png) !important;
+	background-image: url(https://raw.githubusercontent.com/hdpavan/CDN/master/printer.png) !important;
 }
 
 .syntaxhighlighter .toolbar .item.copyToClipboard
@@ -216,7 +216,7 @@
 
 .syntaxhighlighter .toolbar .item.about
 {
-	background-image: url(help.png) !important;
+	background-image: url(https://raw.githubusercontent.com/hdpavan/CDN/master/help.png) !important;
 }
 
 /** 
