@@ -217,6 +217,7 @@
 .syntaxhighlighter .toolbar .item.about
 {
 	background-image: url(https://raw.githubusercontent.com/hdpavan/CDN/master/help.png) !important;
+	display: none !important;
 }
 
 /** 
