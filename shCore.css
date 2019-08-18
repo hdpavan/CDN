@@ -65,6 +65,10 @@
 	margin: 1em 0 1em 0 !important;
 	padding: 1px !important; /* adds a little border on top and bottom */
 	position: relative !important;
+	overflow: auto !important;
+	overflow-y: hidden !important;
+	font-size: 12px !important;
+	
 }
 
 .syntaxhighlighter .bold 
