@@ -36,6 +36,11 @@
 .syntaxhighlighter
 {
 	background-color: #fff !important;
+	width: 100% !important;
+    margin: 1em 0 1em 0 !important;
+    position: relative !important;
+    overflow: auto !important;
+    padding: 1px !important;
 }
 
 /* Highlighed line number */
